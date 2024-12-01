@@ -18,3 +18,5 @@ Si no estás familiarizado con las leyes de tu país relacionadas con el uso y d
 chmod +x ResolverDNS.sh
 ./ResolverDNS
 
+## USO
+Este script está creado para cuando se tiene una lista de subdominios base (sin https:// o http://) se deberá ejecutar en el mismo directorio donde se encuentre esta lista, renombrar la lista a domains.txt y el script hara la resolución de todas las IPS dejando un archivo Resolved_IPS.txt
