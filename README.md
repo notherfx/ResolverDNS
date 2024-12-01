@@ -16,7 +16,9 @@ Si no estás familiarizado con las leyes de tu país relacionadas con el uso y d
 
 ```https://github.com/notherfx/ResolverDNS.git```
 <br>
+<br>
 chmod +x ResolverDNS.sh
+<br>
 <br>
 ./ResolverDNS
 
